@@ -1,6 +1,6 @@
 # APOD Data Server
 
-**Project Summary:** This project is a Node.js Express.js TypeScript server that fetches Astronomy Picture of the Day (APOD) data from NASA's API, stores it in a PostgreSQL database, and then sends the data back to the user.
+**Project Summary:** This is a NodeJS server built with ExpressJS and TypeScript. It fetches Astronomy Picture of the Day (APOD) data from NASA's and stores the fetched data in a PostgreSQL database and serves it back to the user.
 
 ### Quick Start
 
