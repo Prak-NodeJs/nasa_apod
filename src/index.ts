@@ -17,7 +17,7 @@ app.use(express.json());
 dbConnection();
 
 //Routes
-app.use('/v1', apodRoute)
+app.use('/', apodRoute)
 
 //handle unknown routes
 app.all("*", (req: Request, res: Response) => {
