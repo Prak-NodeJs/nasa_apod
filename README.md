@@ -54,10 +54,10 @@ This will start the server at http://localhost:port.
 Fetch a single APOD entry:
 
 ```bash
-GET /v1/apod
+GET /apod
 ```
 Fetch a 2 APOD entry:
 
 ```bash
-GET /v1/apod?count=2
+GET /apod?count=2
 ```
