@@ -42,7 +42,7 @@ This will start the server at http://localhost:port.
 
 ### Endpoints
 
-**GET /v1/apod:**
+**GET /apod:**
    - Fetches the Astronomy Picture of the Day (APOD) data from NASA's API.
       Accepts the following query parameters:
       - count: The number of APOD entries to fetch 
